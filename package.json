@@ -1,0 +1,26 @@
+{
+  "name": "pekonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanehsi/pekonjs.git"
+  },
+  "keywords": [],
+  "author": "shanehsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanehsi/pekonjs/issues"
+  },
+  "homepage": "https://github.com/shanehsi/pekonjs#readme",
+  "dependencies": {
+    "@types/react": "^0.14.44",
+    "@types/react-dom": "^0.14.18",
+    "@types/react-router": "^2.0.38",
+    "@types/react-router-redux": "^4.0.34"
+  }
+}
